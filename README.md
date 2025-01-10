@@ -1,0 +1,1 @@
+This repository demonstrates a common error when using the `$in` operator in MongoDB queries with arrays of objects. The incorrect query may return empty results, even if the data exists. The solution showcases the correct way to structure the query to achieve the expected outcome.
